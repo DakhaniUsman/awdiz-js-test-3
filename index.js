@@ -201,7 +201,7 @@ function Question3() {
 
 }
 
-// console.log(Question3());
+console.log(Question3());
 
 
 // Question 4 : find the sum of all digits in a number
