@@ -123,7 +123,7 @@ function Question2() {
 
 }
 
-console.log(Question2());
+// console.log(Question2());
 
 
 // Question 3 : Remove all occurences of a specific element from an array
